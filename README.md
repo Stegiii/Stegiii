@@ -10,20 +10,15 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://www.stegiii.eu)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCHZWo4BpvxiU23qanmZFkHQ#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)]([https://youtube.com/codestackr](https://www.youtube.com/channel/UCHZWo4BpvxiU23qanmZFkHQ)#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/jsStegiii#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/jsStegiii#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/johnnystegi#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/johnnystegi#gh-dark-mode-only)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=stegiii.visitor-badge&left_text=My%20Page%20Visitors) 
 <br>
