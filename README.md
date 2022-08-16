@@ -2,11 +2,7 @@
 
 ## I'm an e-sport organisation manager and student!
 
-- 🔭 
-- 🌱 
-- 👯 
-- 🥅 
-- ⚡ 
+- 👀 I’m interested in E-Sport, Rallye, Motorsport and Computers.
 
 ### Connect with me:
 
