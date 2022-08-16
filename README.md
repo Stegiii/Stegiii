@@ -25,7 +25,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=stegiii.visitor-badge&left_text=My%20Page%20Visitors) 
 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stegiii&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
