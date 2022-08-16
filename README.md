@@ -25,10 +25,9 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <br />
 <br />
----
 
 [website]: https://stegiii.eu
 [twitter]: https://twitter.com/jsStegiii
