@@ -12,6 +12,7 @@
 
 [![website](./img/globe-dark.svg)](https://www.stegiii.eu#gh-dark-mode-only)
 [![website](./img/globe-light.svg)](https://www.stegiii.eu#gh-light-mode-only)
+&nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCHZWo4BpvxiU23qanmZFkHQ#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)]([https://youtube.com/codestackr](https://www.youtube.com/channel/UCHZWo4BpvxiU23qanmZFkHQ)#gh-dark-mode-only)
 &nbsp;&nbsp;
