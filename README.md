@@ -1,6 +1,6 @@
 # Hi there, I'm Stegiii! 👋 
 
-## I'm a e-sport organisation manager and student!
+## I'm an e-sport organisation manager and student!
 
 - 🔭 
 - 🌱 
