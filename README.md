@@ -1,8 +1,9 @@
-# Hi there, I'm Stegiii! 👋 
+## Hi there, I'm Stegiii! 👋 
 
-## I'm an e-sport organisation manager and student!
 
+- ⚡ I'm an e-sport organisation manager and student!
 - 👀 I’m interested in E-Sport, Rallye, Motorsport and Computers.
+- ☣️ I'm making scripts for my linux machine, since I'm still fairly new to linux.
 
 ### Connect with me:
 
