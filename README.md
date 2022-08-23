@@ -3,7 +3,7 @@
 
 - ⚡ I'm an e-sport organisation manager and student!
 - 👀 I’m interested in E-Sport, Rallye, Motorsport and Computers.
-- ☣️ I'm making scripts for my linux machine, since I'm still fairly new to linux.
+- ☣️ Learning linux!
 
 ### Connect with me:
 
